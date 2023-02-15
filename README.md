@@ -9,7 +9,6 @@
 
 ### My Personal Website [Link](https://www.kaushikravikumar.com/) ✈️
 
-![portfolio](https://miro.medium.com/max/1400/1*y7thj9m8H8uaCorndWxuug.png)
 
 ### 👨🏻‍💻 &nbsp;Connect with Me
 

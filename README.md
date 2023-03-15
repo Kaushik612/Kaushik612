@@ -1,7 +1,7 @@
 
 # Hey There! 👋
 
-**I'm Kaushik** - a Fullstack developer based in USA, mainly focusing full stack web development using React, JavaScript, Java & Spring Boot. I am passionate about learning new technologies and am constantly striving to improve my knowledge of Web development!
+**I'm Kaushik** - a Fullstack developer based in USA, mainly focusing on full stack web development using React, JavaScript, Java & Spring Boot. I am passionate about learning new technologies and I am constantly striving to improve my knowledge of Web development!
  
 ![](https://komarev.com/ghpvc/?username=Kaushik612)
 

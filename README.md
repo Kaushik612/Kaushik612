@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kaushikr.612@gmail.com**
 
-- 📄 Know about my experiences [kaushikravikumar.com](kaushikravikumar.com)
+- ### My Personal Website [Link](https://www.kaushikravikumar.com/) ✈️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

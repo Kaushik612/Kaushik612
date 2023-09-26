@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kaushik Ravikumar</h1><br>
 <h3 align="center">A passionate Full stack Web developer from US</h3><br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik612&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik612" /> </p>
+
 🌱 I’m currently learning **TypeScript and NodeJS developement**<br>
 📫 How to reach me **kaushikr.612@gmail.com**<br>
 
@@ -27,7 +29,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Kaushik612&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,7 +1,12 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Kaushik Ravikumar</h1><br>
-<h3 align="center">A passionate Full stack Web developer from US</h3><br><br>🌱 I’m currently learning # TypeScript and NodeJS developement <br>📫 How to reach me # kaushikr.612@gmail.com <br>### My Personal Website [Link](https://www.kaushikravikumar.com/) ✈️
+<h3 align="center">A passionate Full stack Web developer from US</h3><br><br>
+
+🌱 I’m currently learning **TypeScript and NodeJS developement**<br>
+📫 How to reach me **kaushikr.612@gmail.com**<br>
+
+### My Personal Website [Link](https://www.kaushikravikumar.com/) ✈️
 
 ## 🌐 Socials:
 

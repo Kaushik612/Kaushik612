@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kaushik Ravikumar</h1>
 <h3 align="center">Welcome to my GitHub corner! </h3>
-<h3 align="center">With over 13 years of experience in <b>Java development</b>, I've dedicated my career to building powerful, scalable backend systems—primarily with <b>Spring Boot</b>. <br/><br/>From designing complex architectures to optimizing performance, I'm passionate about creating solutions that scale effortlessly.</h3><br><br>
+<h3 align="left">With over 13 years of experience in <b>Java development</b>, I've dedicated my career to building powerful, scalable backend systems—primarily with <b>Spring Boot</b>. <br/><br/>From designing complex architectures to optimizing performance, I'm passionate about creating solutions that scale effortlessly.</h3><br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik612&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik612" /> </p>
 
